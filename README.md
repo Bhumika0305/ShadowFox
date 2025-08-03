@@ -6,7 +6,7 @@ Welcome! This repository contains the tasks I'm completing as part of my interns
 
 ## ✅ Completed Tasks
 
-### 🔹 [Task 1 – Beginner Portfolio Website](./Task1/)
+### 🔹 [Task 1 – Personal Portfolio Website](./Task1/)
 A responsive personal portfolio website built using **HTML** , **CSS** and **JavaScript** . It showcases my skills, projects, and contact information with a clean layout and mobile-friendly design.
 
 ---
