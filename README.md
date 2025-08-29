@@ -1,7 +1,7 @@
 # 🌟 ShadowFox Internship Repository
 
 This repository contains all tasks completed during my **Web Development Internship at ShadowFox**.  
-The internship was structured into three levels of difficulty — **Beginner, Intermediate, and Advanced (Client Project)**.  
+The internship was structured into three levels of difficulty — **Beginner, Intermediate, and Advanced**.  
 Each task folder contains source code, assets, and documentation for the respective project.  
 
 ---
@@ -47,15 +47,11 @@ SHADOWFOX/
 ---
 
 ### 🔹 Task 3: Client Project (Advanced Level - SDC)
-- **Description:** A full-stack client-based project developed for **SDC (Specialized Dental Care)** with modern UI and backend integration.  
-- **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `Node.js` | `Express.js` | `MongoDB`  
+- **Description:** A client-based project developed with modern UI.  
+- **Tech Stack:** `HTML` | `CSS` | `JavaScript`  
 - **Features:**
-  - Dynamic website with service booking  
-  - Appointment system & emergency support page  
   - Responsive and mobile-friendly design  
   - Smooth animations & modern color palette  
-
-👉 [View Task3 Folder](./Task3-Client%20Project(SDC))
 
 ---
 
@@ -101,5 +97,5 @@ I would like to sincerely thank my internship coordinator **Mr. Aakash S** and t
 
 ## 📌 Author
 👩‍💻 **Bhumika Hazra**  
-🌐 [GitHub Profile](https://github.com/<your-username>)  
-📧 Contact: *your-email@example.com*
+🌐 [GitHub Profile](https://github.com/Bhumika0305)  
+📧 Contact: *bhumikahazra8@gmail.com*
