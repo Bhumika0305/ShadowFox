@@ -42,8 +42,6 @@ SHADOWFOX/
   - Backend authentication (Login/Signup) with JWT  
   - Database integration using MongoDB  
 
-👉 [View Task2 Folder](./Task2-Ecommerce)
-
 ---
 
 ### 🔹 Task 3: Client Project (Advanced Level - SDC)
