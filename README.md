@@ -28,7 +28,7 @@ SHADOWFOX/
   - About, Skills, Projects, and Contact sections
   - Clean UI and responsive design  
 
-👉 [View Task1 Folder](./Task1-Portfolio)
+👉 [View Task1 Folder](https://bhumika0305.github.io/ShadowFox-Task1/)
 
 ---
 
